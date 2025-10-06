@@ -50,6 +50,7 @@ nav a {
   padding: 1rem .75rem;
 }
 
+/* Left partial border style from https://stackoverflow.com/questions/4131490/any-way-to-limit-border-length */
 
 main .border-left {
   position: relative;
